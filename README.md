@@ -1,1 +1,1 @@
-A JS implementation and statistical proof of the solution to the 100 prisoners problem
+A JS implementation and statistical evidence of the solution to the 100 prisoners problem
